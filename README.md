@@ -1,2 +1,2 @@
-# MathScripts
-Mathematica scripts to be used in order to generate complete gravitational wave models for different binay configurations.  
+# Research Scripts
+Research and educational scripts to accompany published work  
